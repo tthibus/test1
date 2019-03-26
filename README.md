@@ -6,4 +6,6 @@ Maintenant il est 14:35 et je vais chercher Nâthan.
 
 15h09, récupéré et suite du Mooc.
 
-15:20 modif depuis ma machine. TEst ?
+15:20 modif depuis ma machine. Test ?
+
+15:24 modification deupuis github.
